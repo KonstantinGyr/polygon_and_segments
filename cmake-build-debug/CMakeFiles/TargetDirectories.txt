@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/Net_vision_test/cmake-build-debug/CMakeFiles/Net_vision_test.dir
+C:/Users/Kot/CLionProjects/Net_vision_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/Net_vision_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

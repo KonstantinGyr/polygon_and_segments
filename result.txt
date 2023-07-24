@@ -1,0 +1,6 @@
+Segment # 1 status 2
+Segment # 2 status 0
+Segment # 3 status 2
+Segment # 4 status 0
+Segment # 5 status 1
+Segment # 6 status 3
